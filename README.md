@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Meowki
-- 👀 I’m interested in appreciating some cute guys(just kidding) and touchingfish (it's definitely true).  
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on ...(...I have no goals about cs now).
-- 📫 How to reach me / No, pls dont contact me.
+- 👋 Hi, I’m @Meowki from SDU(undergraduate).
+- 🌱 I’m currently learning software engineering, preparing for 25 fall. Also willing to have an MBA（my dream haha）.
+- 📫 email: venessa7@foxmail.com / venessachen7@gmail.com
+- My blog(CN):https://www.cnblogs.com/meowki/
+- Limited by network, https://gitee.com/meowki is my common git（in CHN）.
+- - Glad to participate in some internship, welcome to contact me!
 
 <!---
 Meowki/Meowki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
