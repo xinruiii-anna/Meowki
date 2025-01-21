@@ -1,4 +1,4 @@
-- @Meowki from SDU(undergraduate).
+- SDU(undergraduate).
 - Bachelor of Software Engineering, 25fall.
 - email: venessa7@foxmail.com / venessachen7@gmail.com
 - My blog(CN):https://www.cnblogs.com/meowki/
