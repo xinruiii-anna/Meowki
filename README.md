@@ -1,5 +1,5 @@
-- SDU(undergraduate).
-- Bachelor of Software Engineering, 25fall.
-- email: venessa7@foxmail.com / venessachen7@gmail.com
-- My blog(CN):https://www.cnblogs.com/meowki/
-- https://gitee.com/meowki （the git of course project）.
+- 👩🏻‍🎓 2021-2025 Software Engineering in Shandong University.
+- 👩🏻‍💻 (expected) 2025-2026 Statistics (data science) in Imperial College London.
+- 📬 email: venessa7@foxmail.com / venessachen7@gmail.com
+- 📄 My blog(CN):https://www.cnblogs.com/meowki/
+- 📥 https://gitee.com/meowki （the git of course project）
